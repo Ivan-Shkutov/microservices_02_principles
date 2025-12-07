@@ -22,7 +22,7 @@
 
 ![1](https://github.com/Ivan-Shkutov/microservices_02_principles/blob/main/11.png)
 
-Выбор решения и обоснование
+Выбор решения и обоснование:
 
 Kong (Community / Enterprise)
 
@@ -62,7 +62,7 @@ Kong (Community / Enterprise)
 
 ![2](https://github.com/Ivan-Shkutov/microservices_02_principles/blob/main/12.png)
 
-Выбор решения и обоснование 
+Выбор решения и обоснование:
 
 NATS JetStream
 
