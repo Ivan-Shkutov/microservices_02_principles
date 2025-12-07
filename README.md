@@ -60,6 +60,7 @@ Kong (Community / Enterprise)
 
 ### Решение:
 
+![2](https://github.com/Ivan-Shkutov/microservices_02_principles/blob/main/12.png)
 
 
 
