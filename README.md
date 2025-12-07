@@ -20,7 +20,7 @@
 
 ### Решение:
 
-![1]()
+![1](https://github.com/Ivan-Shkutov/microservices_02_principles/blob/main/11.png)
 
 Выбор решения и обоснование
 
